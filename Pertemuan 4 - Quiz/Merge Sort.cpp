@@ -21,6 +21,9 @@ void tukar(int a, int b){
 
 void merge_sort(int data[],int n){
 	int banding=n/2;	
+	
+	//Maaf, pusing kang teh :(
+	
 }
 
 main(){
